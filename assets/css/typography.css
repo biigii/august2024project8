@@ -19,3 +19,8 @@ h1 {
   cursor: pointer;
   transition: color 400ms;
 }
+
+h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
