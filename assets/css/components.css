@@ -1,0 +1,14 @@
+body {
+    background-color: var(--secondary);
+}
+
+header {
+    height: 150px;
+}
+
+nav {
+    height: 100%;
+    background-color: var(--tertiary);
+    text-align: center;
+    line-height: 150px;
+}

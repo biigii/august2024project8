@@ -10,15 +10,3 @@ body {
     height: 100%;
 }
 
-h1 {
-    text-align: center;
-    text-transform: capitalize;
-    /* font-size: 15vw; */
-}
-
-.box {
-    background-color: #f33;
-    /* as well as pixel px and %, we also have other units em rem, vw and vh */
-    height: 80vh;
-    width: 50vw;
-}
